@@ -1,0 +1,41 @@
+.formttkh {
+}
+
+
+.taoform{
+position:relative;
+    background-color: white;
+    margin:auto;
+    padding:0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
+}
+.endform{
+    color: white;
+    float: right;
+    font-size: 30px;
+}
+.endform:hover,
+.endform:focus{
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+.taoform{
+
+
+}
+.formheader{
+    height: 80px;
+padding: 2px 16px;
+    background:url(../anh/background.jpeg);
+    color: navajowhite;
+}
+.formbody{
+    padding: 50px;
+
+}
+.button:hover{
+    color: red;
+}
